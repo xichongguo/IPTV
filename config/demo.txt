@@ -1,7 +1,7 @@
 📺本地频道,#genre#
-西充综合,http://bl.xichongtv.cn/xctv/zhpd20241024spy.m3u8?auth_key=1729758340-0-0-21159fc658789fc1863c53594f68125d
-南充综合,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel101604/playlist.m3u8?_t=1716690377458
-南充科教生活,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel100629/playlist.m3u8?_t=1716690976434
+西充综合
+南充综合
+南充科教生活
 
 
 📺央视频道,#genre#
