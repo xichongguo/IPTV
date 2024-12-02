@@ -1,6 +1,9 @@
 更新时间,#genre#
 2024-12-02 19:04:35,url
 📺本地频道,#genre#
+西充综合,http://bl.xichongtv.cn/xctv/zhpd20241024spy.m3u8?auth_key=1729758340-0-0-21159fc658789fc1863c53594f68125d$!白名单接口
+南充综合,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel101604/playlist.m3u8?_t=1716690377458$!白名单接口
+南充科教生活,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel100629/playlist.m3u8?_t=1716690976434$!白名单接口
 
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -1430,3 +1433,183 @@ CCTV-15,http://60.7.56.33:4000/rtp/239.253.93.154:6322$组播源
 济公游记,http://11.xmyxc.cn/api/php/yy.php?id=21482$订阅源
 济公游记,http://11.xmyxc.cn/api/php/yy.php?id=1355265814$订阅源
 上海滩,http://11.xmyxc.cn/api/php/yy.php?id=1382745184$订阅源
+
+🎬电影频道,#genre#
+1905国内电影,http://cdn.jdshipin.com:8880/1905ts.php?id=1905a$!
+CHC影迷电影,http://58.19.244.92:1111/tsfile/live/1020_1.m3u8 $!# http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=$!山东移动IPV6
+CHC动作电影,http://58.19.244.92:1111/tsfile/live/1019_1.m3u8 $! #http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=$!山东移动IPV6
+CHC家庭影院,http://58.19.244.92:1111/tsfile/live/1018_1.m3u8 $! #http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=$!山东移动IPV6
+CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8$!北方广电
+
+北京IPTV4K超清,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?accountinfo=%7E%7EV2.0%7Ee2qS8h6u-xp3gd50vNr1sw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2$!北京移动# 
+http://coolcat.synology.me:4022/rtp/239.3.1.249:8001$!北京联通组播
+北京IPTV淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND&GuardEncType=2$北京移动 $!# http://coolcat.synology.me:4022/rtp/239.3.1.250:8001$!#北京联通组播
+北京IPTV淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2$!
+$!
+thrill恐怖电影,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8$!AKTV
+美亚电影(HK),https://live.hkdvb.com/hls/live/201.m3u8?token=631170156121436$HKDVD $! http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8$!AKTV
+PopC,https://live.hkdvb.com/hls/live/206.m3u8?token=631170156121436$HKDVD $! http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8$!AKTV
+
+NOW爆谷台,https://live.hkdvb.com/hls/live/133.m3u8?token=631170156121436&edge=live.tvfree.sbs$!
+NOW星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=631170156121436&edge=live.tvfree.sbs$!
+
+精彩影视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002012/index.m3u8?IASHttpSessionId=$!山东移动IPV6
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$!
+超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$!
+龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8$!
+
+🐟斗鱼电影,#genre#
+🎬豆瓣高分电影,http://zzy789.xyz/douyu1.php?id=8770422 $!# http://159.75.85.63:35455/douyu/8770422$!
+🎬欧美大片,http://zzy789.xyz/douyu1.php?id=2793084 $!# http://159.75.85.63:35455/douyu/2793084$!
+🎦邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519 $!# http://159.75.85.63:35455/douyu/4246519$!
+🔴神乐华语①厅,http://zzy789.xyz/douyu1.php?id=85894 $!# http://159.75.85.63:35455/douyu/85894$!
+🔴神乐华语②厅,http://zzy789.xyz/douyu1.php?id=122402 $!# http://159.75.85.63:35455/douyu/122402$!
+🔴神乐粤语厅,http://zzy789.xyz/douyu1.php?id=6566671 $! #http://159.75.85.63:35455/douyu/6566671$!
+🔴神乐欧美厅,http://zzy789.xyz/douyu1.php?id=20415 $! #http://159.75.85.63:35455/douyu/20415$!
+🟢贝爷欧美①厅,http://zzy789.xyz/douyu1.php?id=252802 $!# http://159.75.85.63:35455/douyu/252802$!
+🟢贝爷欧美②厅,http://zzy789.xyz/douyu1.php?id=36337 $! #http://159.75.85.63:35455/douyu/36337$!
+🟢贝爷欧美IMAX厅,http://zzy789.xyz/douyu1.php?id=4332 $!# http://159.75.85.63:35455/douyu/4332$!
+🟣奶虫恐怖影院,http://zzy789.xyz/douyu1.php?id=263824 $!# http://159.75.85.63:35455/douyu/263824$!
+🟣奶虫动作影院,http://zzy789.xyz/douyu1.php?id=315457 $!# http://159.75.85.63:35455/douyu/315457$!
+🟣奶虫粤语影院,http://zzy789.xyz/douyu1.php?id=5033502 $!# http://159.75.85.63:35455/douyu/5033502$!
+🟠华语动作①厅,http://zzy789.xyz/douyu1.php?id=3928 $!# http://159.75.85.63:35455/douyu/3928$!
+🟠华语动作②厅,http://zzy789.xyz/douyu1.php?id=276200 $!# http://159.75.85.63:35455/douyu/276200$!
+☯️经典恐怖Ⅰ厅,http://zzy789.xyz/douyu1.php?id=6906628 $!# http://159.75.85.63:35455/douyu/6906628$!
+☯️经典恐怖Ⅱ厅,http://zzy789.xyz/douyu1.php?id=8009547 $!# http://159.75.85.63:35455/douyu/8009547$!
+⚫外国恐怖大厅,http://zzy789.xyz/douyu1.php?id=96577 $! #http://159.75.85.63:35455/douyu/96577$!
+⚫华语恐怖①厅,http://zzy789.xyz/douyu1.php?id=218859 $!# http://159.75.85.63:35455/douyu/218859$!
+⚫华语恐怖②厅,http://zzy789.xyz/douyu1.php?id=310926 $!# http://159.75.85.63:35455/douyu/310926$!
+⚫华语恐怖③厅,http://zzy789.xyz/douyu1.php?id=2935323 $! #http://159.75.85.63:35455/douyu/2935323$!
+🔘贝贝影视厅,http://zzy789.xyz/douyu1.php?id=431460 $! #http://159.75.85.63:35455/douyu/431460$!
+🔘怡宝科幻动作,http://zzy789.xyz/douyu1.php?id=434971 $!# http://159.75.85.63:35455/douyu/434971$!
+🔘冰冰恐怖动作,http://zzy789.xyz/douyu1.php?id=74374 $!# http://159.75.85.63:35455/douyu/74374$!
+🔘华语科幻动作,http://zzy789.xyz/douyu1.php?id=11544610 $!# http://159.75.85.63:35455/douyu/11544610$!
+
+🐠斗鱼电视,#genre#
+📺橙记人气港剧,http://zzy789.xyz/douyu1.php?id=4549169 $!# http://159.75.85.63:35455/douyu/4549169$!
+📺古装武侠剧场,http://zzy789.xyz/douyu1.php?id=338759 $!# http://159.75.85.63:35455/douyu/338759$!
+📺现代破案侦查,http://zzy789.xyz/douyu1.php?id=922564 $!# http://159.75.85.63:35455/douyu/922564$!
+🔶港剧天地①台,http://zzy789.xyz/douyu1.php?id=4290711 $!# http://159.75.85.63:35455/douyu/4290711$!
+🔶港剧天地②台,http://zzy789.xyz/douyu1.php?id=5522351 $!# http://159.75.85.63:35455/douyu/5522351$!
+🔶港剧天地③台,http://zzy789.xyz/douyu1.php?id=5261342 $! #http://159.75.85.63:35455/douyu/5261342$!
+🔷怀旧经典港剧,http://zzy789.xyz/douyu1.php?id=7119207 $!# http://159.75.85.63:35455/douyu/7119207$!
+🔷老版三国演义,http://zzy789.xyz/douyu1.php?id=7459925 $!# http://159.75.85.63:35455/douyu/7459925$!
+🔷神探狄仁杰,http://zzy789.xyz/douyu1.php?id=6027991 $!# http://159.75.85.63:35455/douyu/6027991$!
+🔷神话,http://zzy789.xyz/douyu1.php?id=5448413 $!# http://159.75.85.63:35455/douyu/5448413$!
+
+👨‍🦱虎牙明星,#genre#
+林正英,http://huanqiuzhibo.cn/manifest/huya.php?id=11342421$!
+周星驰,http://huanqiuzhibo.cn/manifest/huya.php?id=11342412$!
+周润发,http://huanqiuzhibo.cn/manifest/huya.php?id=11342387$!
+梁家辉,http://huanqiuzhibo.cn/manifest/huya.php?id=11342429$!
+五福星,http://huanqiuzhibo.cn/manifest/huya.php?id=11282233$!
+洪金宝,http://huanqiuzhibo.cn/manifest/huya.php?id=11279251$!
+李连杰,http://huanqiuzhibo.cn/manifest/huya.php?id=11342390$!
+甄子丹,http://huanqiuzhibo.cn/manifest/huya.php?id=11352935$!
+刘德华,http://huanqiuzhibo.cn/manifest/huya.php?id=11342424$!
+许冠英,http://huanqiuzhibo.cn/manifest/huya.php?id=11601972$!
+黄渤,http://huanqiuzhibo.cn/manifest/huya.php?id=11352876$!
+沉腾,http://huanqiuzhibo.cn/manifest/huya.php?id=11601968$!
+成龙,http://huanqiuzhibo.cn/manifest/huya.php?id=11342386$!
+曾江,http://huanqiuzhibo.cn/manifest/huya.php?id=11601981$!
+王晶导演,http://huanqiuzhibo.cn/manifest/huya.php?id=11602058$!
+许氏三杰,http://huanqiuzhibo.cn/manifest/huya.php?id=11602033$!
+巨石强森,http://huanqiuzhibo.cn/manifest/huya.php?id=21059581$!
+杰森·斯坦森,http://huanqiuzhibo.cn/manifest/huya.php?id=21059588$!
+
+🐯虎牙电影,#genre#
+女神系列①,http://huanqiuzhibo.cn/manifest/huya.php?id=11336571$!
+女神系列②,http://huanqiuzhibo.cn/manifest/huya.php?id=11352909$!
+贺岁电影①,http://huanqiuzhibo.cn/manifest/huya.php?id=11601986$!
+贺岁电影②,http://huanqiuzhibo.cn/manifest/huya.php?id=11601971$!
+贺岁电影③,http://huanqiuzhibo.cn/manifest/huya.php?id=11352897$!
+金庸武侠,http://huanqiuzhibo.cn/manifest/huya.php?id=11342435$!
+金庸群侠,http://huanqiuzhibo.cn/manifest/huya.php?id=11342427$!
+赛车电影,http://huanqiuzhibo.cn/manifest/huya.php?id=11279247$!
+古墓冒险,http://huanqiuzhibo.cn/manifest/huya.php?id=11352913$!
+盗墓经典,http://huanqiuzhibo.cn/manifest/huya.php?id=21059552$!
+虎牙动作,http://huanqiuzhibo.cn/manifest/huya.php?id=11602077$!
+功夫动作,http://huanqiuzhibo.cn/manifest/huya.php?id=11352941$!
+智商犯罪,http://huanqiuzhibo.cn/manifest/huya.php?id=11352962$!
+悬疑推理,http://huanqiuzhibo.cn/manifest/huya.php?id=11342395$!
+警匪动作,http://huanqiuzhibo.cn/manifest/huya.php?id=11352886$!
+枪战系列,http://huanqiuzhibo.cn/manifest/huya.php?id=21059579$!
+谍战惊险,http://huanqiuzhibo.cn/manifest/huya.php?id=21059587$!
+热血校园,http://huanqiuzhibo.cn/manifest/huya.php?id=11352934$!
+黑帮古惑,http://huanqiuzhibo.cn/manifest/huya.php?id=11336719$!
+黑帮斗争,http://huanqiuzhibo.cn/manifest/huya.php?id=11342419$!
+喜剧专区①,http://huanqiuzhibo.cn/manifest/huya.php?id=11602044$!
+喜剧专区②,http://huanqiuzhibo.cn/manifest/huya.php?id=11352965$!
+喜剧专区③,http://huanqiuzhibo.cn/manifest/huya.php?id=11342423$!
+喜剧专区④,http://huanqiuzhibo.cn/manifest/huya.php?id=11352883$!
+玄幻剧场①,http://huanqiuzhibo.cn/manifest/huya.php?id=11342414$!
+玄幻剧场②,http://huanqiuzhibo.cn/manifest/huya.php?id=11352973$!
+异形怪兽,http://huanqiuzhibo.cn/manifest/huya.php?id=21059577$!
+怪兽系列,http://huanqiuzhibo.cn/manifest/huya.php?id=21059554$!
+惊悚恐怖,http://huanqiuzhibo.cn/manifest/huya.php?id=11601960$!
+
+😸虎牙电视,#genre#
+鬼吹灯之精绝古城,http://huanqiuzhibo.cn/manifest/huya.php?id=11352871$!
+鬼吹灯之怒晴湘西,http://huanqiuzhibo.cn/manifest/huya.php?id=11602075$!
+鬼吹灯之龙岭迷窟,http://huanqiuzhibo.cn/manifest/huya.php?id=29465863$!
+鬼吹灯之昆仑神宫,http://huanqiuzhibo.cn/manifest/huya.php?id=11601957$!
+鬼吹灯之云南虫谷,http://huanqiuzhibo.cn/manifest/huya.php?id=11352898$!
+鬼吹灯之南海归墟,http://huanqiuzhibo.cn/manifest/huya.php?id=11352883$!
+亮剑,http://huanqiuzhibo.cn/manifest/huya.php?id=30080238$!
+都挺好,http://huanqiuzhibo.cn/manifest/huya.php?id=21059594$!
+轩辕剑┃胡歌,http://huanqiuzhibo.cn/manifest/huya.php?id=21059596$!
+武侠剧┃金庸,http://huanqiuzhibo.cn/manifest/huya.php?id=11602082$!
+西游记┃张卫健,http://huanqiuzhibo.cn/manifest/huya.php?id=23728660$!
+西游记┃陈浩民,http://huanqiuzhibo.cn/manifest/huya.php?id=23735126$!
+封神榜┃陈浩民,http://huanqiuzhibo.cn/manifest/huya.php?id=23749096$!
+鹿鼎记┃陈小春,http://huanqiuzhibo.cn/manifest/huya.php?id=23865080$!
+鹿鼎记┃梁朝伟,http://huanqiuzhibo.cn/manifest/huya.php?id=23734183$!
+刑事侦缉档案,http://huanqiuzhibo.cn/manifest/huya.php?id=23734169$!
+我的野蛮婆婆,http://huanqiuzhibo.cn/manifest/huya.php?id=23863796$!
+大唐双龙传,http://huanqiuzhibo.cn/manifest/huya.php?id=23728674$!
+倚天屠龙记,http://huanqiuzhibo.cn/manifest/huya.php?id=23734246$!
+九阴真经,http://huanqiuzhibo.cn/manifest/huya.php?id=23824164$!
+神雕侠侣,http://huanqiuzhibo.cn/manifest/huya.php?id=23865171$!
+天龙八部,http://huanqiuzhibo.cn/manifest/huya.php?id=23903123$!
+笑傲江湖,http://huanqiuzhibo.cn/manifest/huya.php?id=23865142$!
+楚汉骄雄,http://huanqiuzhibo.cn/manifest/huya.php?id=23740156$!
+法证先锋3,http://huanqiuzhibo.cn/manifest/huya.php?id=23863804$!
+陀枪师姐,http://huanqiuzhibo.cn/manifest/huya.php?id=23860039$!
+金枝欲孽,http://huanqiuzhibo.cn/manifest/huya.php?id=23865036$!
+使徒行者,http://huanqiuzhibo.cn/manifest/huya.php?id=23734256$!
+扫黄先锋,http://huanqiuzhibo.cn/manifest/huya.php?id=23903196$!
+鉴证实录,http://huanqiuzhibo.cn/manifest/huya.php?id=23903183$!
+笑看风云,http://huanqiuzhibo.cn/manifest/huya.php?id=23865058$!
+妙手仁心,http://huanqiuzhibo.cn/manifest/huya.php?id=23829543$!
+洗冤录,http://huanqiuzhibo.cn/manifest/huya.php?id=23903130$!
+创世纪,http://huanqiuzhibo.cn/manifest/huya.php?id=23749083$!
+寻秦记,http://huanqiuzhibo.cn/manifest/huya.php?id=23864973$!
+大时代,http://huanqiuzhibo.cn/manifest/huya.php?id=23865161$!
+陈翔六点半,http://huanqiuzhibo.cn/manifest/huya.php?id=11274154$!
+老三国演义,http://huanqiuzhibo.cn/manifest/huya.php?id=11602081$!
+新三国演义,http://huanqiuzhibo.cn/manifest/huya.php?id=11352944$!
+第八号当铺,http://huanqiuzhibo.cn/manifest/huya.php?id=21059568$!
+新水浒传,http://huanqiuzhibo.cn/manifest/huya.php?id=11342384$!
+神医喜来乐,http://huanqiuzhibo.cn/manifest/huya.php?id=11601978$!
+神探狄仁杰①,http://huanqiuzhibo.cn/manifest/huya.php?id=11352958$!
+神探狄仁杰③,http://huanqiuzhibo.cn/manifest/huya.php?id=11342425$!
+活佛济公,http://huanqiuzhibo.cn/manifest/huya.php?id=11342400$!
+康熙微服私访记,http://huanqiuzhibo.cn/manifest/huya.php?id=11342418$!
+铁道游击队,http://huanqiuzhibo.cn/manifest/huya.php?id=11352936$!
+宝莲灯,http://huanqiuzhibo.cn/manifest/huya.php?id=21059563$!
+庆余年,http://huanqiuzhibo.cn/manifest/huya.php?id=11352960$!
+葛二蛋,http://huanqiuzhibo.cn/manifest/huya.php?id=11602072$!
+许三多,http://huanqiuzhibo.cn/manifest/huya.php?id=11342430$!
+大秦赋,http://huanqiuzhibo.cn/manifest/huya.php?id=11352881$!
+家有儿女,http://huanqiuzhibo.cn/manifest/huya.php?id=11352872$!
+邻里一家亲,http://huanqiuzhibo.cn/manifest/huya.php?id=11342426$!
+镖行天下,http://huanqiuzhibo.cn/manifest/huya.php?id=11352969$!
+加勒比海盗,http://huanqiuzhibo.cn/manifest/huya.php?id=21059595$!
+死神来了,http://huanqiuzhibo.cn/manifest/huya.php?id=11352903$!
+蜘蛛侠,http://huanqiuzhibo.cn/manifest/huya.php?id=21059599$!
+硬汉007,http://huanqiuzhibo.cn/manifest/huya.php?id=21059585$!
+东方三侠,http://jsmov2.a.yximgs.com/bs3/video-hls/5222205346628851891_hlsb.m3u8$!
+人在囧途,http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8$!
+倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8$!
+
+
