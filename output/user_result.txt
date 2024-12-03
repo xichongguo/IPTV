@@ -1,7 +1,9 @@
 更新时间,#genre#
 2024-12-03 08:23:01,url
 📺本地频道,#genre#
-
+西充综合,http://bl.xichongtv.cn/xctv/zhpd20241024spy.m3u8?auth_key=1729758340-0-0-21159fc658789fc1863c53594f68125d$!白名单接口
+南充综合,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel101604/playlist.m3u8?_t=1716690377458$!白名单接口
+南充科教生活,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel100629/playlist.m3u8?_t=1716690976434$!白名单接口
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
