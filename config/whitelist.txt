@@ -2,3 +2,7 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
+📺本地频道,#genre#
+西充综合,http://bl.xichongtv.cn/xctv/zhpd20241024spy.m3u8?auth_key=1729758340-0-0-21159fc658789fc1863c53594f68125d$白名单接口
+南充综合,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel101604/playlist.m3u8?_t=1716690377458$白名单接口
+南充科教生活,https://tvfile.ncntv.com.cn/nmip-media/channellive/channel100629/playlist.m3u8?_t=1716690976434$白名单接口
