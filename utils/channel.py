@@ -576,7 +576,7 @@ async def process_sort_channel_list(data, ipv6=False, callback=None):
     need_sort_data = copy.deepcopy(data)
     process_nested_dict(need_sort_data, seen=set(), flag=r"cache:(.*)", force_str="!")
     result = {}
-    semaphore = asyncio.Semaphore(5)
+    semaphore = asyncio.Semaphore(10)
 
     async def limited_get_speed(info, ipv6_proxy, filter_resolution, timeout, callback):
         async with semaphore:
@@ -603,7 +603,7 @@ async def process_sort_channel_list(data, ipv6=False, callback=None):
     open_filter_speed = config.open_filter_speed
     open_filter_resolution = config.open_filter_resolution
     min_speed = config.min_speed
-    min_resolution = config.min_resolution
+    min_resolution = config.min_resolution_value
     for cate, obj in data.items():
         for name, info_list in obj.items():
             info_list = sort_urls(name, info_list, supply=open_supply, filter_speed=open_filter_speed,
@@ -630,7 +630,7 @@ def write_channel_to_file(data, ipv6=False, callback=None):
         open_empty_category = config.open_empty_category
         ipv_type_prefer = list(config.ipv_type_prefer)
         if any(pref in ipv_type_prefer for pref in ["自动", "auto"]) or not ipv_type_prefer:
-            ipv_type_prefer = ["ipv6", "ipv4"] if (ipv6 or os.environ.get("GITHUB_ACTIONS")) else ["ipv4", "ipv6"]
+            ipv_type_prefer = ["ipv6", "ipv4"] if ipv6 else ["ipv4", "ipv6"]
         origin_type_prefer = config.origin_type_prefer
         if config.open_update_time:
             now = datetime.datetime.now()
@@ -645,6 +645,7 @@ def write_channel_to_file(data, ipv6=False, callback=None):
             )
             write_content_into_txt(f"🕘️更新时间,#genre#", path, newline=False)
             write_content_into_txt(f"{update_time},{update_time_url}", path)
+            write_content_into_txt("", path)
         for cate, channel_obj in data.items():
             print(f"\n{cate}:", end=" ")
             write_content_into_txt(f"{cate},#genre#", path)
